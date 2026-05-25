@@ -1,2 +1,2 @@
 # Research-Papers
-This respository consists of all the Reserach papers i have published throughout my Acaedmic journey
+This respository consists of all the Research papers i have published throughout my Acaedmic journey
